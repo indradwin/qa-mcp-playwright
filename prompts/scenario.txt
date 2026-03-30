@@ -1,0 +1,2 @@
+- Navigated to `http://10.14.41.58/`
+- Test the login functionality of the APM (Asset Performance Monitoring) system with valid credentials (NIK: 2166539, Password: Petrokimia1) and verify successful redirection to the account/profile page.
